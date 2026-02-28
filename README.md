@@ -2,7 +2,7 @@
 
 ### 🐍I'm Python developer | Freelancer
 
-![my_report](https://github-readme-stats.vercel.app/api?username=SinaJazaeri&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?username=SinaJazaeri&show_icons=true&theme=radical)
 
 ---
 ### 🛠 My Skills:
