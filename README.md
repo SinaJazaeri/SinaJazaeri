@@ -1,5 +1,8 @@
 # Hello, I'm Sina Jazaeri 👋
 
+📫 [LinkedIn](https://linkedin.com/in/sina-jazaeri) · 📄 [Resume](https://github.com/SinaJazaeri/SinaJazaeri/blob/main/Sina_Jazaeri_Resume.pdf)
+
+
 ### 🐍 Python Developer — Backend (Django/DRF) & Web Scraping Automation
 
 I build end-to-end systems: from scraping and structuring data (Playwright, Selenium, BeautifulSoup) to serving it through a tested, deployed backend (Django, Django REST Framework, PostgreSQL).
@@ -20,8 +23,6 @@ I build end-to-end systems: from scraping and structuring data (Playwright, Sele
 - **Backend:** Django, Django REST Framework, PostgreSQL, REST API design, authentication & permissions, automated testing
 - **Automation:** Web scraping (Playwright, Selenium, BeautifulSoup), Telegram bots, scheduled data pipelines
 - **Deployment:** Render, Gunicorn, environment-based configuration
-
-📫 [LinkedIn](https://linkedin.com/in/sina-jazaeri) · 📄 [Resume](https://github.com/SinaJazaeri/SinaJazaeri/blob/main/Sina_Jazaeri_Resume.pdf)
 
 ### 📌 Featured Projects
 
