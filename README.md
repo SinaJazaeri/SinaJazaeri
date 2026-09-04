@@ -21,6 +21,8 @@ I build end-to-end systems: from scraping and structuring data (Playwright, Sele
 - **Automation:** Web scraping (Playwright, Selenium, BeautifulSoup), Telegram bots, scheduled data pipelines
 - **Deployment:** Render, Gunicorn, environment-based configuration
 
+📫 [LinkedIn](https://linkedin.com/in/sina-jazaeri) · 📄 [Resume](https://github.com/SinaJazaeri/SinaJazaeri/blob/main/Sina_Jazaeri_Resume.pdf)
+
 ### 📌 Featured Projects
 
 - **[fintech-practice](https://github.com/SinaJazaeri/fintech-practice)** — Deployed REST API for exchange rate tracking (Django, DRF, PostgreSQL) — [live demo](https://fintech-practice.onrender.com/rates/api/rates/)
